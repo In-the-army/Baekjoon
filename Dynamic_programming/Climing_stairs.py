@@ -1,4 +1,5 @@
 # 계단 오르기 https://www.acmicpc.net/problem/2579
+# Problem Solving time : 4 hour
 
 # Time limit : 1 sec
 # base oper : 2000 million times
@@ -7,7 +8,7 @@
 # list size : 3200 million
 
 # Range of N : 1 ~ 300
-#  O(n^3) down
+# Time complexity : O(n^3) down
 ##############################################################
 
 # Goal : How to get maximum score?
