@@ -4,7 +4,6 @@
 # Time limit    : 2 sec
 # Memory limit  : 256 MB
 
-
 # Range of N : 1000
 # Time Complexity : O(N^2) or less
 ##############################################################
@@ -26,4 +25,3 @@ for i in range(1, len_2 + 1):
 print(LCS[len_2][len_1])
 
 # O(N^2) 시간 복잡도를 가짐
-
