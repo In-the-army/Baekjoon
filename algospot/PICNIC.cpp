@@ -59,3 +59,5 @@ int main()
 	}
 	return 0;
 }
+
+// summary : https://brain-melting.tistory.com/8
